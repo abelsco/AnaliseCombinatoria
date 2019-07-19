@@ -1,0 +1,857 @@
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 2.
+O resultado é >> 16 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso II: Ordem 'Sim' e Repetição 'Não'.
+Entradas: N = 7, R = 6.
+O resultado é >> 5040 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 10, R = 10.
+O resultado é >> -2147483648 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 2.
+O resultado é >> 16 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 2.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 1.
+O resultado é >> 2 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 1.
+O resultado é >> 2 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso II: Ordem 'Sim' e Repetição 'Não'.
+Entradas: N = 3, R = 2.
+O resultado é >> 6 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 6 <<
+_____________________________________
+
+Caso II: Ordem 'Sim' e Repetição 'Não'.
+Entradas: N = 3, R = 2.
+O resultado é >> 6 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 3, R = 2.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 2.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 1.
+O resultado é >> 2 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 2.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 2.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 1, R = 1.
+O resultado é >> 1 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 1, R = 0.
+O resultado é >> 1 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 1.
+O resultado é >> 2 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 1.
+O resultado é >> 2 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 1.
+O resultado é >> 2 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 2.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 2.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 2.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 3.
+O resultado é >> 27 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 64 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 64 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 4.
+O resultado é >> 256 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 4.
+O resultado é >> 256 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 2.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 1.
+O resultado é >> 3 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 3, R = 2.
+O resultado é >> 9 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 1.
+O resultado é >> 2 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 2, R = 1.
+O resultado é >> 2 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 6, R = 3.
+O resultado é >> 216 <<
+_____________________________________
+
+Caso II: Ordem 'Sim' e Repetição 'Não'.
+Entradas: N = 6, R = 3.
+O resultado é >> 120 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso II: Ordem 'Sim' e Repetição 'Não'.
+Entradas: N = 2, R = 1.
+O resultado é >> 2 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 64 <<
+_____________________________________
+
+Caso II: Ordem 'Sim' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 24 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 64 <<
+_____________________________________
+
+Caso II: Ordem 'Sim' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 24 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 2.
+O resultado é >> 6 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 64 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 4.
+O resultado é >> 256 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 4.
+O resultado é >> 256 <<
+_____________________________________
+
+Caso II: Ordem 'Sim' e Repetição 'Não'.
+Entradas: N = 4, R = 4.
+O resultado é >> 24 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 2.
+O resultado é >> 10 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 2.
+O resultado é >> 10 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 2.
+O resultado é >> 10 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 4.
+O resultado é >> 35 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 4.
+O resultado é >> 35 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 2.
+O resultado é >> 10 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 20 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 2.
+O resultado é >> 10 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 4.
+O resultado é >> 35 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 64 <<
+_____________________________________
+
+Caso III: Ordem 'Não' e Repetição 'Sim'.
+Entradas: N = 4, R = 6.
+O resultado é >> 84 <<
+_____________________________________
+
+Caso II: Ordem 'Sim' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 24 <<
+_____________________________________
+
+Caso VI: Ordem 'Não' e Repetição 'Não'.
+Entradas: N = 4, R = 3.
+O resultado é >> 4 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 64 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 6, R = 3.
+O resultado é >> 216 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 4, R = 3.
+O resultado é >> 64 <<
+_____________________________________
+
+Caso I: Ordem 'Sim' e Repetição 'Sim'.
+Entradas: N = 8, R = 5.
+O resultado é >> 32768 <<
+_____________________________________
